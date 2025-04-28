@@ -1,4 +1,4 @@
-# Zoom Teams Chat Snowflake Integration Sample
+# Zoom Teams Chat Snowflake Cortex Sample App
 
 This project demonstrates the integration between Zoom Chat, and Snowflake using Cortex for intelligent data querying. It allows users to interact with Snowflake data through chat interfaces, providing natural language query capabilities for support tickets and supply chain data.
 
